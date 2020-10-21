@@ -6,7 +6,7 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 
 ## Project Source Codes:
 The following are some source codes picked out from my programming projects.
-* *python semantics syntax
+* *python semantics syntax*
   * Hangman Game
   * Weather Master
   
