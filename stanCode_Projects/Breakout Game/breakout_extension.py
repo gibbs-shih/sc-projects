@@ -83,7 +83,3 @@ def main():
 if __name__ == '__main__':
     main()
 
-'''
-2. 如何加長/縮短paddle  remove再add
-3. 如何掉落物體
-'''
